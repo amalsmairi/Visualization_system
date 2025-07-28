@@ -1,4 +1,4 @@
-# Système de Visualisation Automatique de Données Excel avec Python, Streamlit et Plotly
+# Développement d’une interface pour l’analyse temporelle des performances opérationnelles
 
 Il s'agit d’un outil de lecture, traitement et visualisation de fichiers Excel contenant des données de tickets réseau, avec extraction automatique des indicateurs clés de performance (KPIs).
 
