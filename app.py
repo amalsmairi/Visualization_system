@@ -1,6 +1,6 @@
 import streamlit as st
-from preprocessing import load_excel, compute_mttr, compute_mtta, compute_mttc
-from chart_generator import generate_chart
+from pretraiteur import load_excel, compute_mttr, compute_mtta, compute_mttc
+from generateur_de_graphiques import generate_chart
 
 st.set_page_config(page_title="Analyse des KPIs - MTTR, MTTA, MTTC", layout="wide")
 st.title("📊 Générateur de visualisation des KPIs à partir d’un fichier Excel")
